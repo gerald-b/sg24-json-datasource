@@ -1,7 +1,9 @@
 {
-  "name": "Server Guard 24 Json API",
-  "id": "sg24-json-datasource",
+  "name": "Server Guard 24 Json API Datasource",
+  "id": "gerald-b-sg24-json-datasource",
   "type": "datasource",
+  "metrics": true,
+  "annotations": false,
   "info": {
     "description": "ServerGuard24 Json API Datasource",
     "author": {
