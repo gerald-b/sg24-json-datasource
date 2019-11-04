@@ -1,0 +1,27 @@
+{
+  "name": "Server Guard 24 Json API",
+  "id": "sg24-json-datasource",
+  "type": "datasource",
+  "info": {
+    "description": "ServerGuard24 Json API Datasource",
+    "author": {
+      "name": "gerald-b",
+      "url": "https://github.com/gerald-b"
+    },
+    "logos": {
+      "small": "img/simpleJson_logo.svg",
+      "large": "img/simpleJson_logo.svg"
+    },
+    "links": [
+      {"name": "GitHub", "url": "https://github.com/grafana/simple-json-datasource"},
+      {"name": "MIT License", "url": "https://github.com/grafana/simple-json-datasource/blob/master/LICENSE"}
+    ],
+    "keywords": ["", "datasource", "json", ],
+    "version": "0.0.1",
+    "updated": "2019-11-04"
+  },
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
